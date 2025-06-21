@@ -9,3 +9,6 @@ Durante a jornada, aprendi sobre os fundamentos da computação em nuvem, criei 
 A nuvem é o presente e o futuro da tecnologia — e estou pronta para novos desafios! 🌐☁️
 
 #Azure #CloudComputing #Bootcamp #Tecnologia #Microsoft #DIO
+
+![image](https://github.com/user-attachments/assets/8850de80-de77-4dde-9821-db183eae2138)
+
